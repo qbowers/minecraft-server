@@ -1,0 +1,88 @@
+{
+  "active_profile": 1,
+  "profiles": [
+    {
+      "name": "dragon",
+      "output_dir": "/home/qbowers/source_control/minecraft-server/mods",
+      "game_version": "1.16.5",
+      "mod_loader": "Forge",
+      "mods": [
+        {
+          "name": "Citadel",
+          "identifier": {
+            "CurseForgeProject": 331936
+          }
+        },
+        {
+          "name": "Dragon Mounts: Legacy",
+          "identifier": {
+            "CurseForgeProject": 375088
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "Ice and Fire: Dragons",
+          "identifier": {
+            "CurseForgeProject": 264231
+          }
+        },
+        {
+          "name": "Wyrmroost",
+          "identifier": {
+            "CurseForgeProject": 340333
+          }
+        }
+      ]
+    },
+    {
+      "name": "dragons-new",
+      "output_dir": "/home/qbowers/source_control/minecraft-server/mods",
+      "game_version": "1.20.1",
+      "mod_loader": "Forge",
+      "mods": [
+        {
+          "name": "Citadel",
+          "identifier": {
+            "ModrinthProject": "jJfV67b1"
+          }
+        },
+        {
+          "name": "Create",
+          "identifier": {
+            "ModrinthProject": "LNytGWDc"
+          }
+        },
+        {
+          "name": "Dracolotl",
+          "identifier": {
+            "ModrinthProject": "s8dABaWE"
+          }
+        },
+        {
+          "name": "Dragon Mounts: Legacy",
+          "identifier": {
+            "ModrinthProject": "G3EPcczP"
+          }
+        },
+        {
+          "name": "Dragon Mounts: More Dragons",
+          "identifier": {
+            "ModrinthProject": "6c9fDm6s"
+          }
+        },
+        {
+          "name": "Ice and Fire",
+          "identifier": {
+            "ModrinthProject": "LVnvHVBp"
+          }
+        },
+        {
+          "name": "Rubidium",
+          "identifier": {
+            "ModrinthProject": "4ZqxOvjD"
+          }
+        }
+      ]
+    }
+  ]
+}
