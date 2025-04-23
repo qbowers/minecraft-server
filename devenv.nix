@@ -20,8 +20,8 @@
     # minecraft-server
     # minecraftServers.vanilla-1-20
     
-    lazymc
-    # minecraft-server-hibernation
+    # lazymc # requires 1.20.3+
+    minecraft-server-hibernation
     
     ferium
     # gopacked
