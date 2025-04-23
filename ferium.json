@@ -3,7 +3,7 @@
   "profiles": [
     {
       "name": "dragon",
-      "output_dir": "./mods",
+      "output_dir": "./server/mods",
       "game_version": "1.16.5",
       "mod_loader": "Forge",
       "mods": [
@@ -36,7 +36,7 @@
     },
     {
       "name": "dragons-new",
-      "output_dir": "./mods",
+      "output_dir": "./server/mods",
       "game_version": "1.20.1",
       "mod_loader": "Forge",
       "mods": [
@@ -68,6 +68,12 @@
           "name": "Dragon Mounts: More Dragons",
           "identifier": {
             "ModrinthProject": "6c9fDm6s"
+          }
+        },
+        {
+          "name": "Geckolib",
+          "identifier": {
+            "ModrinthProject": "8BmcQJ2H"
           }
         },
         {

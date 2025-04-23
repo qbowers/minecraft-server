@@ -4,23 +4,29 @@
   # https://devenv.sh/basics/
   env.GREET = "devenv";
 
+  # allowUnfree = true;
+  # config.allowUnfree = true;
+
   # https://devenv.sh/packages/
   packages = with pkgs; [
     git
+    wget
+    temurin-jre-bin-17
     
     # purpur
-    papermc
+    # papermc
     # papermcServers.papermc
     # papermcServers.papermc-1_20_4
     # minecraft-server
-    # minecraftServers.vanilla-1-21
+    # minecraftServers.vanilla-1-20
     
-    # lazymc
-    minecraft-server-hibernation
+    lazymc
+    # minecraft-server-hibernation
     
-    # ferium
-    gopacked
+    ferium
+    # gopacked
     
+    # Console
     mcrcon
   ];
 
